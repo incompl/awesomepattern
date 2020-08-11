@@ -1,0 +1,7 @@
+name: Shape Books
+description: Check it out! I'm a pattern.yml, not a pattern.yaml.
+icon: book-open
+color: "#6235BF"
+categories:
+  - examples
+  - quickstart
